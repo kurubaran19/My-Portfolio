@@ -136,7 +136,7 @@ export default class MyDocument extends Document {
           />
           <meta
             property="og:image"
-            content="https://cdn-icons-png.flaticon.com/512/6646/6646490.png"
+            content="https://firebasestorage.googleapis.com/v0/b/kurubaran-anandhan.appspot.com/o/Kurubaran-Anandhan.png?alt=media&token=692c74dc-1f0c-4b48-bbd1-94012815e6da"
           />
           <meta
             name="apple-mobile-web-app-title"
